@@ -1,0 +1,7 @@
+#####Adzuna API:
+API_KEY = e4819dba45ade13ec68a9d794f36a111
+URL : https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=95161bde&app_key=e4819dba45ade13ec68a9d794f36a111&&content-type=application/json
+
+
+####The MUSE:
+API_KEY = 	54e7aac056e7eaefb6b245bd27568010f6f4d1751cad433342f25ea2f80a24fa

@@ -1,0 +1,350 @@
+  [
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4533228259",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUzMzIyODI1OSIsInMiOiJTamJhV3ViSTdoR0dOYUs0Ml9PUGtBIn0.fFvPw-_P0y4l3tJXKKE00G3YY3LQ6NLbdVpecogOnWw",
+        "contract_time": "Part Time",
+        "category": {
+          "tag": "hospitality-catering-jobs",
+          "label": "Hospitality & Catering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 24960,
+        "salary_min": 24960,
+        "company": {
+          "display_name": "Barchester Healthcare",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -3.514128,
+        "created": "2024-01-19T13:17:19Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4533228259?utm_medium=api&utm_source=95161bde",
+        "location": {
+          "area": [
+            "UK",
+            "South West England",
+            "Devon",
+            "Torquay",
+            "Ellacombe"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Ellacombe, Torquay"
+        },
+        "description": "Are you a qualified chef looking to work with fresh seasonal food, with the opportunity to have more of a work life balance and make what you do matter? Working as a Bank Chef at Barchester, you will have the chance to deliver hotel/restaurant standards without the split shifts and long weeks. You will assist the Head Chef in creating nutritious, flavoursome and well balanced menus whilst working with residents to tailor menus around them. We are proud to deliver person centred hospitality acro…",
+        "latitude": 50.467844,
+        "title": "Chef - Bank"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4541887533",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2piYVd1Ykk3aEdHTmFLNDJfT1BrQSIsImkiOiI0NTQxODg3NTMzIn0.6h91fQoTugl-LsxThJoo7m_arY9SYGAWjfjygkbxRXs",
+        "salary_min": 25000,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Travel Jobs",
+          "tag": "travel-jobs"
+        },
+        "salary_max": 25000,
+        "contract_time": "Full Time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Gecko Travel Recruitment"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4541887533?utm_medium=api&utm_source=95161bde",
+        "created": "2024-01-24T10:39:36Z",
+        "salary_is_predicted": "0",
+        "longitude": -0.104,
+        "location": {
+          "display_name": "North London, London",
+          "area": [
+            "UK",
+            "London",
+            "North London"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Gecko Travel Recruitment are excited to be working with this well-established travel business in North London who are seeking a Senior Operations Executive to join their team on a permanent basis. As Senior Operations Executive you will deliver the highest level of support to our travel agent partners. You will take full responsibility for resolving all post booking related issues in a manner that promotes and enhances the company's reputation. The ideal candidate will have previous experience …",
+        "contract_type": "permanent",
+        "latitude": 51.54617,
+        "title": "Travel Operations Executive"
+      },
+      {
+        "company": {
+          "display_name": "Barchester Healthcare",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 0,
+        "contract_time": "Part Time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Domestic help & Cleaning Jobs",
+          "tag": "domestic-help-cleaning-jobs"
+        },
+        "salary_max": 23289,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU1MjQ2Mjc1OCIsInMiOiJTamJhV3ViSTdoR0dOYUs0Ml9PUGtBIn0.HJLXljGfH1ZYofeE5UONAPjJ5CbbJXUoBaO0mXz3cfE",
+        "id": "4552462758",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Housekeeping Assistant - Bank - Care Home",
+        "latitude": 51.3713,
+        "description": "ABOUT THE ROLE As a Bank Housekeeping Assistant at a Barchester care home, you’ll help to create a warm and homely environment that enables us to meet each resident’s unique needs. Keeping the home clean and safe is no small task, which is why the role of a Bank Housekeeping Assistant is so important. The variety of housekeeping and cleaning tasks you carry out will ensure everyone can enjoy a clean, tidy and welcoming environment. This means you’ll have a direct impact on our residents, their …",
+        "location": {
+          "display_name": "Herne Bay, Kent",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "UK",
+            "South East England",
+            "Kent",
+            "Herne Bay"
+          ]
+        },
+        "created": "2024-02-01T13:02:51Z",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4552462758?utm_medium=api&utm_source=95161bde",
+        "longitude": 1.12634
+      },
+      {
+        "longitude": -3.38873,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4552462764?utm_medium=api&utm_source=95161bde",
+        "created": "2024-02-01T13:02:51Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "Littleham, Exmouth",
+          "area": [
+            "UK",
+            "South West England",
+            "Devon",
+            "Exmouth",
+            "Littleham"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "ABOUT THE ROLE As a Senior Care Assistant at a Barchester care home, you’ll look after the different needs of our residents to enable us to deliver quality, person-centred care and support. Your role will involve supervising and inspiring a team of dedicated Care Assistants alongside the Deputy General Manager. You can also expect to support the clinical team in a specific area, such as medication, assessments, care plans or care reviews. Like everyone here, as a Senior Care Assistant, you’ll a…",
+        "title": "Senior Care Assistant - Care Home",
+        "latitude": 50.626289,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4552462764",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2piYVd1Ykk3aEdHTmFLNDJfT1BrQSIsImkiOiI0NTUyNDYyNzY0In0.NVR2i19PlylCs2lcgdpFP80AlRLwNd38qK-xAeTi2M0",
+        "salary_max": 27840,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Healthcare & Nursing Jobs",
+          "tag": "healthcare-nursing-jobs"
+        },
+        "contract_time": "Part Time",
+        "salary_min": 0,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Barchester Healthcare"
+        }
+      },
+      {
+        "company": {
+          "display_name": "Equals One Ltd",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Healthcare & Nursing Jobs",
+          "tag": "healthcare-nursing-jobs"
+        },
+        "contract_time": "Full Time",
+        "salary_min": 45753,
+        "salary_max": 45753,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2piYVd1Ykk3aEdHTmFLNDJfT1BrQSIsImkiOiI0NTQxOTgyNjIzIn0.poVZcrjR62kG6WUAQwSclzdiPIbvZzJCCj3-4wcmKLU",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4541982623",
+        "latitude": 51.316799,
+        "title": "Wheelchair Service Occupational Therapist or Physiotherapist",
+        "contract_type": "permanent",
+        "location": {
+          "display_name": "Woking, Surrey",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "UK",
+            "South East England",
+            "Surrey",
+            "Woking"
+          ]
+        },
+        "description": "Wheelchair Service Occupational Therapist or Physiotherapist Starting salary: From £45,753 FTE Location: Surrey (Woking – GU21 5SA). Free on-site parking. Hours: Full-time (part-time considered) Rewards & Benefits: Salary £45,753 (FTE) Working Hours 37.5 hours / week (part-time hours may be considered) Company Pension Scheme 25 days holiday (plus Bank Holidays) Childcare Voucher Scheme Free on-site parking We have a fantastic opportunity for an Occupational Therapist or Physiotherapist , to joi…",
+        "longitude": -0.55908,
+        "created": "2024-01-24T12:19:24Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4541982623?utm_medium=api&utm_source=95161bde",
+        "salary_is_predicted": "0"
+      },
+      {
+        "salary_min": 20160,
+        "category": {
+          "tag": "healthcare-nursing-jobs",
+          "label": "Healthcare & Nursing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 20256,
+        "contract_time": "Full Time",
+        "company": {
+          "display_name": "Southminster Residential Home",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "4557903168",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2piYVd1Ykk3aEdHTmFLNDJfT1BrQSIsImkiOiI0NTU3OTAzMTY4In0.u3zopMXTAOiXvSfuH6NTm-kuzCxb-euVm5HvEBxbYLE",
+        "contract_type": "permanent",
+        "title": "Carer Days",
+        "latitude": 51.662201,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4557903168?utm_medium=api&utm_source=95161bde",
+        "salary_is_predicted": "0",
+        "created": "2024-02-05T11:16:00Z",
+        "longitude": 0.831359,
+        "description": "Southminster Residential Home is a small business in Southminster. We are professional, agile and customer-centric. Our work environment includes: Award winning home Food provided Growth opportunities On-the-job training Safe work environment This Position does not come under the sponsorship scheme ```Duties``` - Provide personal care and assistance to Residents - Assist with activities of daily living, including bathing, dressing, grooming, and toileting - Administer medications as directed by…",
+        "location": {
+          "display_name": "Southminster, Essex",
+          "area": [
+            "UK",
+            "Eastern England",
+            "Essex",
+            "Southminster"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "title": "Night Duty Manager",
+        "latitude": 54.666698,
+        "contract_type": "permanent",
+        "longitude": -2.75499,
+        "created": "2024-01-23T12:42:41Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4538604762?utm_medium=api&utm_source=95161bde",
+        "salary_is_predicted": "0",
+        "description": "Here at NRC Recruitment, we are looking for a “Night Duty Manager” on behalf of our client based just outside of Penrith. The main duty of the Night Duty Manager is to be responsible for the operation of the hotel during the night, while running night audits and providing friendly and efficient reception service. You will ensure the security and safety of the venue throughout the night, conducting regular patrols around the grounds, ensuring all gates are closed and livestock is contained. You …",
+        "location": {
+          "area": [
+            "UK",
+            "North West England",
+            "Cumbria",
+            "Penrith"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Penrith, Cumbria"
+        },
+        "contract_time": "Full Time",
+        "category": {
+          "tag": "hospitality-catering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Hospitality & Catering Jobs"
+        },
+        "salary_max": 27040,
+        "salary_min": 27040,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "NRC Recruitment & Events"
+        },
+        "id": "4538604762",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUzODYwNDc2MiIsInMiOiJTamJhV3ViSTdoR0dOYUs0Ml9PUGtBIn0.Gi4H47P7mtR7OhSnQ0Bu-BS8YktOg31u46RUiFgueRY"
+      },
+      {
+        "latitude": 51.583801,
+        "title": "Minibus Driver",
+        "contract_type": "permanent",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "UK",
+            "Eastern England",
+            "Essex",
+            "Rochford"
+          ],
+          "display_name": "Rochford, Essex"
+        },
+        "description": "Minibus Driver Required 20 hours a week Are you looking for a new role that will make you smile, create amazing relationships and be part of a great team? If yes, then Forget Me Not Caring may have the role just for you. We are currently looking for a minibus driver to join the team based out of our day centre in Rochford for adults with learning disabilities and additional needs. As a minibus driver the role would involve: Collecting Students from their homes to bring to the day centre and als…",
+        "longitude": 0.707085,
+        "salary_is_predicted": "0",
+        "created": "2024-01-18T15:52:03Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4531326329?utm_medium=api&utm_source=95161bde",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "FORGET ME NOT CARING LTD"
+        },
+        "category": {
+          "tag": "healthcare-nursing-jobs",
+          "label": "Healthcare & Nursing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 22080,
+        "contract_time": "Part Time",
+        "salary_min": 22080,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUzMTMyNjMyOSIsInMiOiJTamJhV3ViSTdoR0dOYUs0Ml9PUGtBIn0.bhqgrOVSVodQ5dbY-J67zBpJv95hLqo33inc5rmtV0A",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4531326329"
+      },
+      {
+        "latitude": 51.274941,
+        "title": "Housekeeping Assistant - Bank - Care Home",
+        "longitude": 0.186367,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4551037968?utm_medium=api&utm_source=95161bde",
+        "salary_is_predicted": "0",
+        "created": "2024-01-31T12:57:12Z",
+        "description": "ABOUT THE ROLE As a Bank Housekeeping Assistant at a Barchester care home, you’ll help to create a warm and homely environment that enables us to meet each resident’s unique needs. Keeping the home clean and safe is no small task, which is why the role of a Bank Housekeeping Assistant is so important. The variety of housekeeping and cleaning tasks you carry out will ensure everyone can enjoy a clean, tidy and welcoming environment. This means you’ll have a direct impact on our residents, their …",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "UK",
+            "South East England",
+            "Kent",
+            "Sevenoaks",
+            "Riverhead"
+          ],
+          "display_name": "Riverhead, Sevenoaks"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Domestic help & Cleaning Jobs",
+          "tag": "domestic-help-cleaning-jobs"
+        },
+        "salary_max": 24345,
+        "contract_time": "Part Time",
+        "salary_min": 24345,
+        "company": {
+          "display_name": "Barchester Healthcare",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "4551037968",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU2piYVd1Ykk3aEdHTmFLNDJfT1BrQSIsImkiOiI0NTUxMDM3OTY4In0.xMvaFp-_7G76hVjwFpv5iHjERr6icB__zUUQS9g91qs"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MEM Recruitment"
+        },
+        "salary_min": 40000,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "Full Time",
+        "salary_max": 50000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDUyMTc5NTgxMCIsInMiOiJTamJhV3ViSTdoR0dOYUs0Ml9PUGtBIn0.iZSM5Kh9iCzeC4TPWeZCE3CmkSASHF5qStQ1ajpTN_M",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "4521795810",
+        "contract_type": "permanent",
+        "title": "Business Central IT Manager",
+        "latitude": 52.1357,
+        "location": {
+          "display_name": "Bedford, Bedfordshire",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "UK",
+            "Eastern England",
+            "Bedfordshire",
+            "Bedford"
+          ]
+        },
+        "description": "Introduction: Our client is a leading worldwide fashion distributor that prides itself on their innovative approach to sustainability. They are a forward-thinking company that can offer progression and development with their in-house training. What we are recruiting for: MEM Recruitment (in partnership with MEM Digital) is seeking an experienced IT Manager to join our client's team to oversee and run the Microsoft Business Central platform, applications and systems functionality. The suitable c…",
+        "created": "2024-01-12T14:14:02Z",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/details/4521795810?utm_medium=api&utm_source=95161bde",
+        "salary_is_predicted": "0",
+        "longitude": -0.468044
+      }
+    ]

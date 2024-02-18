@@ -1,0 +1,116 @@
+.body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.btn{
+  font-size: 14px;
+}
+
+.main-img {
+  position: relative;
+
+}
+
+.background-img{
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+.text-on-img {
+  font-size: xx-large;
+ position: absolute;
+ /* right: 50%; */
+ left: 45%;
+ /* bottom: 30%; */
+ top:45%
+}
+
+
+.nav-link {
+  /* font-weight: bold; */
+  /* font-size: 14px; */
+  /* text-transform: uppercase; */
+  text-decoration: none;
+  /* color: #031D44; */
+  padding: 20px 0px;
+  margin: 0px 20px;
+  display: inline-block;
+  position: relative;
+  opacity: 0.75;
+}
+
+.nav-link:hover {
+  opacity: 1;
+}
+
+.nav-link::before {
+  transition: 300ms;
+  height: 3px;
+  content: "";
+  position: absolute;
+  background-color: #031D44;
+}
+
+.nav-link-ltr::before {
+  width: 0%;
+  bottom: 10px;
+}
+
+.nav-link-ltr:hover::before {
+  width: 100%;
+}
+
+
+.card-img-top{
+  width:auto;
+  height: 150px;
+  margin:auto;
+}
+
+.companies-Logo{
+    width: 200px;
+    height: 120px;
+}
+
+.company-logos{
+  height:50%;
+  width:50%;
+  filter: grayscale(30%);
+}
